@@ -1,0 +1,1 @@
+java DevOpsSampleApplicationServer >ServerOutput.log
