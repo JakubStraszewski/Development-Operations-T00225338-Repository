@@ -69,7 +69,7 @@
 		  <configuration>
           <archive>
             <manifest>
-              <mainClass>devops.assignment.DevOpsSampleApplicationServer</mainClass>
+              <mainClass>devops.project.DevOpsSampleApplicationServer</mainClass>
             </manifest>
           </archive>
 		 </configuration>
